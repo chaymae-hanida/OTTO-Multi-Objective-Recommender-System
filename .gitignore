@@ -1,0 +1,6 @@
+submission.csv
+*.parquet
+*.pkl
+*.jsonl
+__pycache__/
+.ipynb_checkpoints/
